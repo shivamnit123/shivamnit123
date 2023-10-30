@@ -11,7 +11,8 @@ I am currently pursuing Master Of Computer Application From NIT Raipur.
 - 🥅 2024 Goals: Learn more about MERN Stack and  Machine Learning.
 - 📫 You can contact me at: shivamnit987@gmail.com
 
-<h1>🛠TechStack</h1>
+<h1 color ="blue"
+ >🛠TechStack</h1>
 <br/>
 <ol>
  -💻   C++ | Java | JavaScript <br/>
