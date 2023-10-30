@@ -12,7 +12,7 @@ I am currently pursuing Master Of Computer Application From NIT Raipur.
 - 📫 You can contact me at: shivamnit987@gmail.com
 
 <br/>
-- 🛠 <h1>TechStack</h1>
+<h1>-🛠TechStack</h1>
 <br/>
 -💻   C++ | Java | JavaScript <br/>
 -🌐   HTML | CSS | Tailwind | Reactjs | Reduxjs | Nextjs<br/>
