@@ -14,8 +14,10 @@ I am currently pursuing Master Of Computer Application From NIT Raipur.
 <br/>
 <h1>-🛠TechStack</h1>
 <br/>
--💻   C++ | Java | JavaScript <br/>
+<ul>
+ -💻   C++ | Java | JavaScript <br/>
 -🌐   HTML | CSS | Tailwind | Reactjs | Reduxjs | Nextjs<br/>
 -🛢    MySQL | Firebase <br/>
 -🔧   Visual Studio code | Git | GIT-HUB<br/>
-
+</ul>
+ 
