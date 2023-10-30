@@ -4,7 +4,8 @@ I am currently pursuing Master Of Computer Application From NIT Raipur.
  
 
 
--🌱  I’m currently learning  Reactjs and Nodejs
+
+ -🌱  I’m currently learning  Reactjs and Nodejs.
 - 👯 I’m looking to collaborate in open-source and willing to learn new skills
 - 👀 I’m interested in solving problems, exploring projects and developing software.
 - 🥅 2024 Goals: Learn more about MERN Stack and  Machine Learning.
