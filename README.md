@@ -9,7 +9,19 @@ I am currently pursuing Master Of Computer Application From NIT Raipur.
 - 👯 I’m looking to collaborate in open-source and willing to learn new skills
 - 👀 I’m interested in solving problems, exploring projects and developing software.
 - 🥅 2024 Goals: Learn more about MERN Stack and  Machine Learning.
-- 📫 You can contact me at: shivamnit987@gmail.com or  <a href="https://www.linkedin.com/in/shivam-tiwari-013428254/">Linkedin</a>
+- 📫 You can contact me at:
+ <details open>
+  <summary>☎️ How to reach me :</summary>
+  <table border="3" radius="20">
+    <td><a href="https://wa.me/919794423031" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="45px" /> </a></td>
+    <td>
+    <td><a href="https://www.linkedin.com/in/shivam-tiwari-013428254/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45px" /> </a></td>
+    <td><a href="https://www.instagram.com/shivam_tiwari7170/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45px" /> </a></td>
+    <td><a href="https://www.facebook.com/akashsingh3031/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="45px" /> </a>
+    <td><a href="https://twitter.com/akashsingh3031" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="45px" /> </a></td>
+    <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=shivamnit987@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></td>
+  </table>
+</details>
 
  <h2>TechStack</h2>
 <br/>
