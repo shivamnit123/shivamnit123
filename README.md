@@ -2,11 +2,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Shivam+Tiwari%2C+;Welcome+to+my+README" alt="Typing SVG" /></a>
 </h1>
 <br/>
+<h2  align = "center">I'm currently pursuing Master of Computer Application from NIT Raipur🧑‍🎓.</h2>
+<br/>
  -🌱  I’m currently learning  Reactjs and Nodejs.<br/>
 - 👯 I’m looking to collaborate in open-source and willing to learn new skills.<br/>
 - 👀 I’m interested in solving problems, exploring projects and developing software.<br/>
 - 🥅 2024 Goals: Learn more about MERN Stack and  Machine Learning.<br/>
 - 📫 You can contact me at:
+  <br/>
   <br/>
   <table border="3" radius="20">
     <td><a href="https://wa.me/9893587096" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="45px" /> </a></td>
@@ -16,7 +19,7 @@
     <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=shivamnit987@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></td>
   </table>
 
- <h2>TechStack</h2>
+ <h1 font="bold">TechStack</h1>
 <br/>
 <ol>
  -💻   C++ | Java | JavaScript <br/>
