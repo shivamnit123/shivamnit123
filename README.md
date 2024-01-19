@@ -27,4 +27,4 @@
  <br/>
 <img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
 
-<img height="100%" width="100%" alt="Bottom" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/footer.svg"/>
+<img height="100%" width="100%" alt="Bottom" src="https://github.com/shivamnit123/shivamnit123/blob/main/images/footer.svg"/>
