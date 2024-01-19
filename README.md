@@ -1,7 +1,6 @@
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Shivam+Tiwari%2C+;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
 </h1>
-<br/>
 <h2  align = "center">I'm currently pursuing Master of Computer Application from NIT Raipur🧑‍🎓.</h2>
 <br/>
  -🌱  I’m currently learning  Reactjs and Nodejs.<br/>
@@ -18,7 +17,6 @@
     <td><a href="https://twitter.com/ShivamT93907806" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="45px" /> </a></td>
     <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=shivamnit987@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></td>
   </table>
-
  <h1 font="bold">TechStack</h1>
 <br/>
 <ol>
@@ -27,4 +25,7 @@
 -🛢    MySQL | Firebase <br/>
 -🔧   Visual Studio code | Git | GIT-HUB<br/>
 </ol>
- 
+ <br/>
+<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
+
+<img height="100%" width="100%" alt="Bottom" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/footer.svg"/>
