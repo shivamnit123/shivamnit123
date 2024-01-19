@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate in open-source and willing to learn new skills.<br/>
 - 👀 I’m interested in solving problems, exploring projects and developing software.<br/>
 - 🥅 2024 Goals: Learn more about MERN Stack and  Machine Learning.<br/>
-   <summary>☎️You can contact me at:</summary>
+- <h2>☎️You can contact me at:</h2>
   <br/>
   <table border="3" radius="20">
     <td><a href="https://wa.me/9893587096" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="45px" /> </a></td>
