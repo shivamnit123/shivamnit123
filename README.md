@@ -18,7 +18,7 @@
   </table>
  <h1 font="bold">TechStack</h1>
 <br/>
- <p align="center" gap="5px">
+ <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,nextjs,redux,saas,tailwind,c,cpp,py,express,git,github,materialui,mongdb,postman,vscode" />
   </a>
