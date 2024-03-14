@@ -18,11 +18,10 @@
   </table>
  <h1 font="bold">TechStack</h1>
 <br/>
-<ol>
- -💻   C++ | Java | JavaScript <br/>
--🌐   HTML | CSS | Tailwind | Reactjs | Reduxjs | Nextjs<br/>
--🛢    MySQL | Firebase <br/>
--🔧   Visual Studio code | Git | GIT-HUB<br/>
-</ol>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react" />
+  </a>
+</p>
  <br/>
  
