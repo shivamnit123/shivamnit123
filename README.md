@@ -21,19 +21,22 @@
 <h2 align="center">📈 Coding Profiles</h2>
 <p align="center">
   <a href="https://leetcode.com/shivamnit987/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>&nbsp;&nbsp;
- 
+
   <a href="https://www.codechef.com/users/lets_codeitbro" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" width="40" height="40"/>
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="40" height="40"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://codeforces.com/profile/shivamnit987" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-platform-logo-color-tal-revivo.png" alt="Codeforces" width="40" height="40"/>
+    <img src="https://sta.codeforces.com/s/84849/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://auth.geeksforgeeks.org/user/shivamn6ywq/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40px" alt="GFG"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" height="40" alt="GFG"/>
   </a>
 </p>
+
 
 
  <h1 font="bold">TechStack</h1>
