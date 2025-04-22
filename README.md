@@ -18,21 +18,22 @@
     <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=shivamnit987@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></td>
   </table>
   <br/>
-  <h2 align="center">📈 Coding Profiles</h2>
+<h2 align="center">📈 Coding Profiles</h2>
 <p align="center">
   <a href="https://leetcode.com/shivamnit987/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40px" alt="LeetCode"/>
+    <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/shivamnit987" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="40px" alt="CodeChef"/>
+    <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/shivamnit987" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" width="40px" alt="Codeforces"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-platform-logo-color-tal-revivo.png" alt="Codeforces" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/shivamnit987/practice/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40px" alt="GFG"/>
+    <img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksforGeeks" width="40" height="40"/>
   </a>
 </p>
+
 
  <h1 font="bold">TechStack</h1>
 <br/>
