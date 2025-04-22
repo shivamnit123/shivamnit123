@@ -23,14 +23,15 @@
   <a href="https://leetcode.com/shivamnit987/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/shivamnit987" target="_blank">
+ 
+  <a href="https://www.codechef.com/users/lets_codeitbro" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/shivamnit987" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-platform-logo-color-tal-revivo.png" alt="Codeforces" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/shivamnit987/practice/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksforGeeks" width="40" height="40"/>
+  <a href="https://auth.geeksforgeeks.org/user/shivamn6ywq/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40px" alt="GFG"/>
   </a>
 </p>
 
