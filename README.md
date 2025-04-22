@@ -3,10 +3,8 @@
 </h1>
 <h2  align = "center">I'm currently pursuing Master of Computer Application from NIT Raipur🧑‍🎓.</h2>
 <br/>
- -🌱  I’m currently learning  Reactjs and Nodejs.<br/>
 - 👯 I’m looking to collaborate in open-source and willing to learn new skills.<br/>
 - 👀 I’m interested in solving problems, exploring projects and developing software.<br/>
-- 🥅 2024 Goals: Learn more about MERN Stack and  Machine Learning.<br/>
 - ☎️You can reach me at:
 
   <br/>
