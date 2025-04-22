@@ -20,7 +20,7 @@
   <br/>
 <h2 align="center">📈 Coding Profiles</h2>
 <p align="center">
-  <a href="https://leetcode.com/shivamnit987/" target="_blank">
+  <a href="https://leetcode.com/shivamTiwari09/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 
@@ -28,7 +28,7 @@
     <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 
-  <a href="https://codeforces.com/profile/shivamnit987" target="_blank">
+  <a href="https://codeforces.com/profile/shivamnit123" target="_blank">
     <img src="https://sta.codeforces.com/s/84849/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 
