@@ -17,6 +17,23 @@
     <td><a href="https://twitter.com/ShivamT93907806" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="45px" /> </a></td>
     <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=shivamnit987@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></td>
   </table>
+  <br/>
+  <h2 align="center">📈 Coding Profiles</h2>
+<p align="center">
+  <a href="https://leetcode.com/shivamnit987/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40px" alt="LeetCode"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/shivamnit987" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="40px" alt="CodeChef"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/shivamnit987" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" width="40px" alt="Codeforces"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/shivamnit987/practice/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40px" alt="GFG"/>
+  </a>
+</p>
+
  <h1 font="bold">TechStack</h1>
 <br/>
  <p gap="10px">
